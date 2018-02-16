@@ -1,0 +1,9 @@
+## Binary Tree Traversal
+
+In computer science, binary trees allow for fun and exciting possibilities for the data that we use on a daily basis. Binary tree's leverage the power of logarithms to allow for very fast retrieval of data even when there are billions of records to go through. By continually halving the amount of data to look through, you'll very quickly find what you're looking for.
+
+Finding a single node is straight forward with this structure, but what about when you have to get all the nodes out of your fancy data structure? In this case there are a few approaches you can take.
+
+### In order Sorting
+
+This method 
